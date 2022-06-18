@@ -1,0 +1,10 @@
+/* 
+  Localizable.strings
+  testswiftUI
+
+  Created by Mohammad Alabed on 18/06/2022.
+  
+*/
+
+"RandomBooksTitle" = "Books maybe you like";
+"OnlineBooksTitle" = "Last added books";

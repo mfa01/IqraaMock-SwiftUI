@@ -1,0 +1,15 @@
+/* 
+  Localizable.strings
+  testswiftUI
+
+  Created by Mohammad Alabed on 18/06/2022.
+  
+*/
+
+"RandomBooksTitle" = "من الممكن ان يعجبك";
+"OnlineBooksTitle" = "اخر الاضافات";
+"Purchases" = "المشتريات";
+"Iqraa App" = "اقرأ";
+"Library" = "المكتبة";
+"Podcasts" = "البودكاست";
+"Looking for a book?" = "هل تبحث عن كتاب؟";
